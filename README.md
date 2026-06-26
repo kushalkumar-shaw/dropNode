@@ -1,4 +1,4 @@
-```md
+
 # ☁️ DropNode
 
 > A modern self-hosted media storage platform and Cloudinary alternative for developers.
@@ -49,22 +49,6 @@ Designed for developers and teams who want complete control over their media inf
 - Lightweight frontend
 - Clean REST architecture
 
----
-
-# 🖼️ Screenshots
-
-> Add screenshots here.
-
-```
-
-Dashboard
-Upload Page
-Media Gallery
-API Documentation
-
-```
-
----
 
 # 🛠 Tech Stack
 
